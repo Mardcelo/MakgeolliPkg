@@ -1,6 +1,12 @@
-### MakgeolliPkg
+# MakgeolliPkg
 
-### Thanks to 
+More infos to be announced (planning to make blog post about this) 
+
+## Build 
+
+To be updated. 
+
+## Thanks to 
 
 I would like to thank to these authors 
 
