@@ -4,7 +4,7 @@ More infos to be announced (planning to make blog post about this)
 
 ## Build 
 
-To be updated. 
+To be updated. (DELAYED) currently working 4 projects 
 
 ## Thanks to 
 
